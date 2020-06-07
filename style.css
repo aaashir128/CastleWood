@@ -1,0 +1,138 @@
+
+.navbar-expand{
+    justify-content: center !important;
+    text-align: center !;
+    align-items: center;
+    height: 50px !important;
+
+    width: 50% !important;
+}
+.heading,h2{
+    text-align: center;
+    color: #E74C3C;
+    margin:  20px;
+    text-shadow: 2px 2px 4px  darkred;
+    
+}
+.brandLogo>img{
+    width: 180px ;
+    align-content: center;
+   
+}
+
+.bg-none{
+    background-color: #E74C3C !important;
+}
+.contact-info{
+    text-align: right;
+}
+
+.SearchBar{
+    align-items: center;
+    align-content: center;    
+}
+
+.navbar-dark{
+    font-weight: bold;
+}
+.navbar-light{
+    font-weight: bold;
+}
+.col{
+    margin-top: auto;
+    padding-top: auto;
+    
+}
+
+.heading{
+    text-align: ;
+}
+
+.contact-info>h4{
+    float: left;
+    align-items: center;
+    text-align: center;
+}
+
+.fashion{
+    width: 300px;
+    height:  300px; 
+    
+}
+
+.productsImage{
+    text-align: center;
+}
+
+.fashionRow{
+    margin: 100px  100px 0;
+}
+
+.productsText{
+    text-align: center;
+   
+}
+
+.btn-primary{
+    background-color: #E74C3C !important;
+    border: none !important;
+}
+
+
+.card-img-overlay{
+    text-align: center;
+    
+
+}
+
+.card-body{
+    text-align: center;
+}
+.footer{
+    margin-top: 100px;
+}
+.PaymentMethod{
+    text-align: center;
+}
+.paymentFonts{
+    font-size: 32px;
+    color: #E74C3C;
+}
+
+.SocialMenu{
+    font-size: 32px;
+    
+}
+
+.fa-facebook{
+    color: #3b5999;
+    
+}
+.fa-twitter{
+   color:  #55acee;
+}
+.fa-instagram{
+    color: #e4405f;
+}
+.fa-youtube{
+    color: #cd201f;
+}
+
+.bottomBar{
+    background-color: #E74C3C;
+    height: 35PX;
+    text-align: center;
+    color:#ffff;
+}
+
+.a{
+    color: #E74C3C;
+}
+
+
+.AboutUs>p{
+    margin-top: 50px;
+    letter-spacing: 0.15em;
+    line-height: 2em;
+    font-weight: bold;
+}
